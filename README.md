@@ -1,35 +1,37 @@
-Welcome to the Computer Vision for Games! This project is designed to enable computer vision-based control for games using Python. The program utilizes OpenCV, CVZone, and Pynput libraries to offer a versatile solution for games that don't rely on mouse input.
+# DragonBall-CV
 
-Features:
+Welcome to **DragonBall-CV: Computer Vision for Games!** This project harnesses the power of computer vision, enabling gesture-based game control using Python. We leverage OpenCV, CVZone, and Pynput libraries to offer an innovative and versatile solution for games that don't rely on mouse input.
 
-Computer Vision Control: The program employs computer vision techniques to interpret hand gestures, allowing users to control games without the need for a mouse.
+## Features
 
-Flexibility in Game Compatibility: This project is designed to work seamlessly with a wide range of games, as long as they don't require mouse input. Feel free to experiment and adapt it to suit your favorite games.
+- **Computer Vision Control**: Utilize computer vision techniques to interpret hand gestures, enabling hands-free game control.
 
-Easily Customizable Controls: The control scheme is highly adaptable to your preferences. You can easily customize the controls to suit your gaming style.
+- **Game Compatibility**: Designed to work seamlessly with various games, provided they don’t require mouse input. Feel free to experiment and adapt it to your favorite games.
 
+- **Customizable Controls**: The control scheme is easily adaptable to your gaming style. Customize the controls to match your preferences effortlessly.
 
-Getting Started:
+## Getting Started
 
-Install Dependencies:
+### Install Dependencies
 
-Ensure you have the required libraries installed using the commands mentioned in the prerequisites section.
+Make sure to install the necessary libraries using the commands provided in the prerequisites section.
 
-Customize Controls:
+### Customize Controls
 
-Open the configuration file to easily customize the controls according to your preferences.
+Open the configuration file to modify the controls according to your preferences.
 
-Contributing:
+## Contributing
 
-If you find any issues, have suggestions, or want to contribute to the project, please feel free to open an issue or submit a pull request. Your feedback and contributions are highly appreciated!
+We welcome your feedback and contributions! If you encounter any issues, have suggestions, or wish to contribute to the project, please open an issue or submit a pull request.
 
-License:
+## License
 
 This project is licensed under the GPL License.
 
-Acknowledgments:
+## Acknowledgments
 
 Special thanks to the creators and contributors of OpenCV, CVZone, and Pynput for providing the foundational libraries for this project.
 
-Enjoy gaming with computer vision control! Don't forget to star the repository if you find it useful! 
-# DragonBall-CV
+---
+
+Enjoy gaming with computer vision control! Don't forget to star the repository if you find it useful!
